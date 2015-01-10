@@ -1,0 +1,14 @@
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Content\hair1.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Content\gender1.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Content\border.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Content\DBack.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Content\mainfont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Content\textboxback.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Content\face1.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Content\circle.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Project Xelda xna.exe
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Debug\Project Xelda xna.pdb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Debug\Project Xelda xna.exe
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Debug\Project Xelda xna.pdb

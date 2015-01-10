@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Xelda xna", "Project Xelda xna\Project Xelda xna.csproj", "{265B6940-BDBF-4958-93A2-7CDBFE17D5E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Xelda xnaContent", "Project Xelda xna\Content\Project Xelda xnaContent.contentproj", "{6888049A-1149-4632-8692-DF5B0BF54EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265B6940-BDBF-4958-93A2-7CDBFE17D5E9}.Debug|x86.ActiveCfg = Debug|x86
+		{265B6940-BDBF-4958-93A2-7CDBFE17D5E9}.Debug|x86.Build.0 = Debug|x86
+		{265B6940-BDBF-4958-93A2-7CDBFE17D5E9}.Release|x86.ActiveCfg = Release|x86
+		{265B6940-BDBF-4958-93A2-7CDBFE17D5E9}.Release|x86.Build.0 = Release|x86
+		{6888049A-1149-4632-8692-DF5B0BF54EFA}.Debug|x86.ActiveCfg = Debug|x86
+		{6888049A-1149-4632-8692-DF5B0BF54EFA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

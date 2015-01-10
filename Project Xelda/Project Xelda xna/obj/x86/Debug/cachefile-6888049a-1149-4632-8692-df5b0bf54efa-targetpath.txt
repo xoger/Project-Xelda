@@ -1,0 +1,8 @@
+Content\border.xnb
+Content\DBack.xnb
+Content\face1.xnb
+Content\gender1.xnb
+Content\hair1.xnb
+Content\textboxback.xnb
+Content\circle.xnb
+Content\mainfont.xnb

@@ -1,0 +1,97 @@
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\border.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\DBack.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\textboxback.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\NewGame.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Left.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Right.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\oval.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\bigoval.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\greenbar.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\progress.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\redbar.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\classbuttons\sword.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\classbuttons\destruction.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\classbuttons\healing.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\fade.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\destruction magic.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\fitness.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\hand to hand.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\healing.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\sword training.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\tactics.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\rest.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female body.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female hair 1.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female happy eyes.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female happy face.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female tunic.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female worried face.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\dot.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\highlight.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\diagonal.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\mouse.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\circle.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\mainfont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\bigfont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\hugefont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\rewardfont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\maintrack.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\maintrack.wma
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Project Xelda xna.exe.manifest
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Project Xelda xna.application
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Project Xelda xna.exe
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Project Xelda xna.pdb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Release\Project Xelda xna.exe.manifest
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Release\Project Xelda xna.application
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Release\Project Xelda xna.exe
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Release\Project Xelda xna.pdb
+C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\obj\x86\Release\Project Xelda xna.csprojResolveAssemblyReference.cache
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\obj\x86\Release\Project Xelda xna.exe
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\obj\x86\Release\Project Xelda xna.pdb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\border.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\DBack.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\textboxback.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\NewGame.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\Left.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\Right.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\oval.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\bigoval.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\greenbar.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\progress.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\redbar.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\classbuttons\sword.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\classbuttons\destruction.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\classbuttons\healing.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\fade.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\scene\destruction magic.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\scene\fitness.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\scene\hand to hand.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\scene\healing.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\scene\sword training.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\scene\tactics.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\scene\rest.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\Textures\female body.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\Textures\female hair 1.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\Textures\female happy eyes.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\Textures\female happy face.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\Textures\female tunic.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\Textures\female worried face.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\dot.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\highlight.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\diagonal.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\mouse.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\circle.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\mainfont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\bigfont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\hugefont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\rewardfont.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\maintrack.xnb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Content\maintrack.wma
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Project Xelda xna.exe.manifest
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Project Xelda xna.application
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Project Xelda xna.exe
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\bin\x86\Release\Project Xelda xna.pdb
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\obj\x86\Release\Project Xelda xna.exe.manifest
+C:\Users\xoger\Desktop\Projects\Project Xelda\Project Xelda xna\obj\x86\Release\Project Xelda xna.application

@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>border.png</Source>
+      <Name>border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\border.xnb</Output>
+      <Time>2014-03-31T18:48:05.2765462+01:00</Time>
+    </Item>
+    <Item>
+      <Source>DBack.jpg</Source>
+      <Name>DBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\DBack.xnb</Output>
+      <Time>2014-04-11T04:59:10.3744226+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textboxback.png</Source>
+      <Name>textboxback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\textboxback.xnb</Output>
+      <Time>2014-04-01T19:52:55.1892656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.fx</Source>
+      <Name>circle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\circle.xnb</Output>
+      <Time>2014-04-18T03:51:07.737776+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mainfont.spritefont</Source>
+      <Name>mainfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\mainfont.xnb</Output>
+      <Time>2014-04-23T19:08:12.8981607+01:00</Time>
+    </Item>
+    <Item>
+      <Source>NewGame.png</Source>
+      <Name>NewGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\NewGame.xnb</Output>
+      <Time>2014-04-06T02:10:35.6321974+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Left.png</Source>
+      <Name>Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Left.xnb</Output>
+      <Time>2014-04-06T03:07:55.6313008+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Right.png</Source>
+      <Name>Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Right.xnb</Output>
+      <Time>2014-04-06T03:08:46.7066489+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bigfont.spritefont</Source>
+      <Name>bigfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\bigfont.xnb</Output>
+      <Time>2014-04-23T19:08:17.2636992+01:00</Time>
+    </Item>
+    <Item>
+      <Source>oval.png</Source>
+      <Name>oval</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\oval.xnb</Output>
+      <Time>2014-04-09T03:48:04.0747792+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bigoval.png</Source>
+      <Name>bigoval</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\bigoval.xnb</Output>
+      <Time>2014-04-09T06:30:45.6719443+01:00</Time>
+    </Item>
+    <Item>
+      <Source>progress.png</Source>
+      <Name>progress</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\progress.xnb</Output>
+      <Time>2014-04-09T21:52:18.1958243+01:00</Time>
+    </Item>
+    <Item>
+      <Source>greenbar.png</Source>
+      <Name>greenbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\greenbar.xnb</Output>
+      <Time>2014-04-11T05:18:24.9045801+01:00</Time>
+    </Item>
+    <Item>
+      <Source>redbar.png</Source>
+      <Name>redbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\redbar.xnb</Output>
+      <Time>2014-04-11T05:18:59.8339224+01:00</Time>
+    </Item>
+    <Item>
+      <Source>classbuttons\sword.png</Source>
+      <Name>classbuttons\sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\classbuttons\sword.xnb</Output>
+      <Time>2014-04-10T04:37:05.3052892+01:00</Time>
+    </Item>
+    <Item>
+      <Source>classbuttons\destruction.png</Source>
+      <Name>classbuttons\destruction</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\classbuttons\destruction.xnb</Output>
+      <Time>2014-04-10T09:24:06.2648967+01:00</Time>
+    </Item>
+    <Item>
+      <Source>classbuttons\healing.png</Source>
+      <Name>classbuttons\healing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\classbuttons\healing.xnb</Output>
+      <Time>2014-04-10T09:35:07.414192+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fade.png</Source>
+      <Name>fade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\fade.xnb</Output>
+      <Time>2014-04-10T11:36:37.920484+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scene\destruction magic.png</Source>
+      <Name>scene\destruction magic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\destruction magic.xnb</Output>
+      <Time>2014-04-11T04:43:00.7859192+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scene\fitness.png</Source>
+      <Name>scene\fitness</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\fitness.xnb</Output>
+      <Time>2014-04-11T04:43:00.7869193+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scene\hand to hand.png</Source>
+      <Name>scene\hand to hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\hand to hand.xnb</Output>
+      <Time>2014-04-11T04:43:00.7879199+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scene\healing.png</Source>
+      <Name>scene\healing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\healing.xnb</Output>
+      <Time>2014-04-11T04:43:00.7899196+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scene\sword training.png</Source>
+      <Name>scene\sword training</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\sword training.xnb</Output>
+      <Time>2014-04-11T04:43:00.7909202+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scene\tactics.png</Source>
+      <Name>scene\tactics</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\tactics.xnb</Output>
+      <Time>2014-04-11T04:43:00.7919224+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hugefont.spritefont</Source>
+      <Name>hugefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\hugefont.xnb</Output>
+      <Time>2014-04-23T19:08:16.4976937+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scene\rest.png</Source>
+      <Name>scene\rest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\scene\rest.xnb</Output>
+      <Time>2014-04-15T20:43:31.5448703+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\female body.png</Source>
+      <Name>Textures\female body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female body.xnb</Output>
+      <Time>2014-04-18T00:02:10.8829794+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\female hair 1.png</Source>
+      <Name>Textures\female hair 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female hair 1.xnb</Output>
+      <Time>2014-04-18T00:05:37.8442205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\female happy eyes.png</Source>
+      <Name>Textures\female happy eyes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female happy eyes.xnb</Output>
+      <Time>2014-04-18T00:06:25.7984916+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\female happy face.png</Source>
+      <Name>Textures\female happy face</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female happy face.xnb</Output>
+      <Time>2014-04-18T00:06:57.9453134+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\female tunic.png</Source>
+      <Name>Textures\female tunic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female tunic.xnb</Output>
+      <Time>2014-04-18T00:05:09.59002+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\female worried face.png</Source>
+      <Name>Textures\female worried face</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\Textures\female worried face.xnb</Output>
+      <Time>2014-04-18T00:36:47.3464747+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rewardfont.spritefont</Source>
+      <Name>rewardfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\rewardfont.xnb</Output>
+      <Time>2014-04-23T19:08:14.7777818+01:00</Time>
+    </Item>
+    <Item>
+      <Source>maintrack.mp3</Source>
+      <Name>maintrack</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\maintrack.xnb</Output>
+      <Extra>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\maintrack.wma</Extra>
+      <Time>2014-04-23T18:21:25.3918048+01:00</Time>
+    </Item>
+    <Item>
+      <Source>dot.bmp</Source>
+      <Name>dot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\dot.xnb</Output>
+      <Time>2014-04-24T16:26:17.7389965+01:00</Time>
+    </Item>
+    <Item>
+      <Source>highlight.bmp</Source>
+      <Name>highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\highlight.xnb</Output>
+      <Time>2014-04-24T16:58:33.0227576+01:00</Time>
+    </Item>
+    <Item>
+      <Source>diagonal.png</Source>
+      <Name>diagonal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\diagonal.xnb</Output>
+      <Time>2014-04-30T12:12:04.9639656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mouse.png</Source>
+      <Name>mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\mouse.xnb</Output>
+      <Time>2014-05-04T21:18:29.8985013+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\xoger\Desktop\Projects\Project Xelda xna\Project Xelda xna\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-15T23:57:31.9533814+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
